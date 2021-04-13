@@ -1,2 +1,2 @@
 # ios
-✆ MapMemory ios, where does the interaction with the project take place
+✆ MapMemory ISO, where does the interaction with the project take place
